@@ -35,19 +35,19 @@ yt: https://youtu.be/m2FyEIpodOM
 /*
 Microsoft. 2025. Working with a database in ASP.NET Core MVC (Version 2.0) [Source code].
 Available at: <https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/working-with-sql?view=aspnetcore-10.0&tabs=visual-studio>
-[Accessed 21 November 2025].
+[Accessed 19 November 2025].
 
 Hòa Nguyễn Coder (SkipperHoa). 2024. Login and Register using ASP.NET MVC 5 (Version 2.0) [Source code].
 Available at: <https://dev.to/skipperhoa/login-and-register-using-asp-net-mvc-5-3i0g>
-[Accessed 21 November 2025].
+[Accessed 19 November 2025].
 
  Ben Cull. 2025. Using Sessions and HttpContext in ASP.NET Core and MVC Core (Version 2.0) [Source code].
  Available at: <https://bencull.com/blog/using-sessions-and-httpcontext-in-aspnetcore-and-mvc-core>
- [Accessed 21 November 2025].
+ [Accessed 19 November 2025].
 
 Ravitej Herwatta. 2024. A Step‑by‑Step Process to Set Up a Database Connection in ASP.NET Core MVC (Version 2.0)[Source code].
 Available at: <https://medium.com/@ravitejherwatta/a-step-by-step-process-to-set-up-a-database-connection-in-asp-net-core-mvc-a03ac8b7cc04>
-[Accessed 21 November 2025].
+[Accessed 19 November 2025].
 
 Bootstrap. 2023. Bootstrap 5 Documentation.[online]
 Available at:
