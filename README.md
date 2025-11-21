@@ -19,9 +19,9 @@ Constraints
 •	The system will  be developed using  MVC.
 •	Part 1 is a prototype only, so it does not include backend functionality yet.
 •	The project must be completed within the semester timeframe, limiting the scope of features.
-Question 2
+# Question 2
  <img width="837" height="741" alt="image" src="https://github.com/user-attachments/assets/ae0f63ec-7c94-4580-83a3-ef2744e3741b" />
-Question 3
+# Question 3
 <img width="584" height="687" alt="image" src="https://github.com/user-attachments/assets/c2313aa4-3fc4-4340-b54e-dd6d15d78ab8" />
 <img width="548" height="432" alt="image" src="https://github.com/user-attachments/assets/98a27e13-851f-4a39-9d2b-4bf24ceefd82" />
 
