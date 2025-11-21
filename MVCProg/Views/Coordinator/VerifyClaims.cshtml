@@ -1,0 +1,41 @@
+﻿@model List<MVCprog.Models.Claim>
+@{
+    Layout = "_Layout";
+}
+
+<h2>Verify Claims</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Description</th>
+            <th>Hours</th>
+            <th>Total</th>
+            <th>Status</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var claim in Model)
+        {
+            <tr>
+                <td>@claim.ClaimId</td>
+                <td>@claim.Description</td>
+                <td>@claim.HoursWorked</td>
+                <td>@claim.TotalAmount</td>
+                <td>@claim.Status</td>
+                <td>
+                    <form asp-action="Approve" method="post" style="display:inline">
+                        <input type="hidden" name="id" value="@claim.ClaimId" />
+                        <button type="submit" class="btn btn-success btn-sm">Approve</button>
+                    </form>
+                    <form asp-action="Reject" method="post" style="display:inline">
+                        <input type="hidden" name="id" value="@claim.ClaimId" />
+                        <button type="submit" class="btn btn-danger btn-sm">Reject</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

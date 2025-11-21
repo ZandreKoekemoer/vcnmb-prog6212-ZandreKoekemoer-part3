@@ -1,0 +1,46 @@
+﻿@model List<MVCprog.Models.Claim>
+@{
+    Layout = "_Layout";
+}
+
+<h2>My Claims</h2>
+<a href="@Url.Action("SubmitClaim")" class="btn btn-primary mb-3">Submit New Claim</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Description</th>
+            <th>Hours</th>
+            <th>Hourly Rate</th>
+            <th>Total</th>
+            <th>Status</th>
+            <th>Documents</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var claim in Model)
+        {
+            <tr>
+                <td>@claim.Description</td>
+                <td>@claim.HoursWorked</td>
+                <td>@claim.HourlyRate</td>
+                <td>@claim.TotalAmount</td>
+                <td>@claim.Status</td>
+                <td>
+                    @if (claim.Documents != null)
+                    {
+                        foreach (var doc in claim.Documents)
+                        {
+                            <div><a href="@doc.FilePath" target="_blank">@doc.FileName</a></div>
+                        }
+                    }
+                    else
+                    {
+
+                        <small>No documents</small>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\views\\lecturer\\myclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\views\\lecturer\\myclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\views\\hr\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\views\\hr\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\views\\manager\\finalapproval.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\views\\manager\\finalapproval.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\views\\lecturer\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\views\\lecturer\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\views\\hr\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\views\\hr\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\views\\hr\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\views\\hr\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\views\\coordinator\\verifyclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\views\\coordinator\\verifyclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\controllers\\coordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\controllers\\coordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59AD458-2F50-457F-8BE2-53029CC08CE8}|MVCProgTest\\MVCProgTest.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprogtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59AD458-2F50-457F-8BE2-53029CC08CE8}|MVCProgTest\\MVCProgTest.csproj|solutionrelative:mvcprogtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|c:\\users\\zandr\\onedrive\\documents\\schoolwork\\mvcprog\\mvcprog\\migrations\\20251120225301_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA5E338-A4B8-4060-B191-5ADB2AD0D5BD}|MVCProg\\MVCProg.csproj|solutionrelative:mvcprog\\migrations\\20251120225301_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MVCProg\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MVCProg\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:59:30.386Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Program.cs",
+              "RelativeDocumentMoniker": "MVCProg\\Program.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Program.cs",
+              "RelativeToolTip": "MVCProg\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwDoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:01:32.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyClaims.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\Lecturer\\MyClaims.cshtml",
+              "RelativeDocumentMoniker": "MVCProg\\Views\\Lecturer\\MyClaims.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\Lecturer\\MyClaims.cshtml",
+              "RelativeToolTip": "MVCProg\\Views\\Lecturer\\MyClaims.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T18:38:16.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Controllers\\LecturerController.cs",
+              "RelativeDocumentMoniker": "MVCProg\\Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Controllers\\LecturerController.cs",
+              "RelativeToolTip": "MVCProg\\Controllers\\LecturerController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwFcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:31:51.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "MVCProg\\Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Models\\Claim.cs",
+              "RelativeToolTip": "MVCProg\\Models\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:40:45.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MVCProg\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Models\\User.cs",
+              "RelativeToolTip": "MVCProg\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:59:03.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "MVCProg\\Models\\Document.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Models\\Document.cs",
+              "RelativeToolTip": "MVCProg\\Models\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:40:58.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCProg\\appsettings.json",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\appsettings.json",
+              "RelativeToolTip": "MVCProg\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T22:47:16.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCProg\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCProg\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T17:39:05.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HRController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Controllers\\HRController.cs",
+              "RelativeDocumentMoniker": "MVCProg\\Controllers\\HRController.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Controllers\\HRController.cs",
+              "RelativeToolTip": "MVCProg\\Controllers\\HRController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwEkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:02:52.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\HR\\Users.cshtml",
+              "RelativeDocumentMoniker": "MVCProg\\Views\\HR\\Users.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\HR\\Users.cshtml",
+              "RelativeToolTip": "MVCProg\\Views\\HR\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T18:03:45.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCProg\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "MVCProg\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T18:23:45.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FinalApproval.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\Manager\\FinalApproval.cshtml",
+              "RelativeDocumentMoniker": "MVCProg\\Views\\Manager\\FinalApproval.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\Manager\\FinalApproval.cshtml",
+              "RelativeToolTip": "MVCProg\\Views\\Manager\\FinalApproval.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T18:39:01.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\HR\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "MVCProg\\Views\\HR\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\HR\\EditUser.cshtml",
+              "RelativeToolTip": "MVCProg\\Views\\HR\\EditUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T18:04:26.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubmitClaim.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\Lecturer\\SubmitClaim.cshtml",
+              "RelativeDocumentMoniker": "MVCProg\\Views\\Lecturer\\SubmitClaim.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\Lecturer\\SubmitClaim.cshtml",
+              "RelativeToolTip": "MVCProg\\Views\\Lecturer\\SubmitClaim.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T18:38:30.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\HR\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "MVCProg\\Views\\HR\\AddUser.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\HR\\AddUser.cshtml",
+              "RelativeToolTip": "MVCProg\\Views\\HR\\AddUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T18:04:07.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VerifyClaims.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\Coordinator\\VerifyClaims.cshtml",
+              "RelativeDocumentMoniker": "MVCProg\\Views\\Coordinator\\VerifyClaims.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Views\\Coordinator\\VerifyClaims.cshtml",
+              "RelativeToolTip": "MVCProg\\Views\\Coordinator\\VerifyClaims.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T18:38:48.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "MVCProg\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "MVCProg\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:36:01.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MVCProg\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MVCProg\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:22:48.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CoordinatorController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Controllers\\CoordinatorController.cs",
+              "RelativeDocumentMoniker": "MVCProg\\Controllers\\CoordinatorController.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Controllers\\CoordinatorController.cs",
+              "RelativeToolTip": "MVCProg\\Controllers\\CoordinatorController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:35:51.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProgTest\\Test1.cs",
+              "RelativeDocumentMoniker": "MVCProgTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProgTest\\Test1.cs",
+              "RelativeToolTip": "MVCProgTest\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:49:25.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20251120225301_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Migrations\\20251120225301_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MVCProg\\Migrations\\20251120225301_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\zandr\\OneDrive\\Documents\\Schoolwork\\MVCProg\\MVCProg\\Migrations\\20251120225301_InitialCreate.cs",
+              "RelativeToolTip": "MVCProg\\Migrations\\20251120225301_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:53:02.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
