@@ -14,7 +14,9 @@ namespace MVCprog.Controllers
         public IActionResult FinalApproval()
         {
             if (HttpContext.Session.GetString("UserRole") != "Manager")
+            {
                 return RedirectToAction("Index", "Login");
+            }
 
             return View(_context.Claims.Where(c => c.Status.Contains("Coordinator")).ToList());
         }
@@ -23,7 +25,9 @@ namespace MVCprog.Controllers
         public IActionResult FinalApprove(int id)
         {
             if (HttpContext.Session.GetString("UserRole") != "Manager")
+            {
                 return RedirectToAction("Index", "Login");
+            }
 
             var claim = _context.Claims.FirstOrDefault(c => c.ClaimId == id);
             if (claim != null) { claim.Status = "Approved by Manager"; _context.SaveChanges(); }
@@ -34,7 +38,9 @@ namespace MVCprog.Controllers
         public IActionResult Reject(int id)
         {
             if (HttpContext.Session.GetString("UserRole") != "Manager")
+            {
                 return RedirectToAction("Index", "Login");
+            }
 
             var claim = _context.Claims.FirstOrDefault(c => c.ClaimId == id);
             if (claim != null) { claim.Status = "Rejected by Manager"; _context.SaveChanges(); }

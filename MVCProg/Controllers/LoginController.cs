@@ -34,10 +34,25 @@ namespace MVCprog.Controllers
             HttpContext.Session.SetString("UserRole", user.Role);
             HttpContext.Session.SetString("UserName", user.FullName);
 
-            if (user.Role == "HR") return RedirectToAction("Users", "HR");
-            if (user.Role == "Lecturer") return RedirectToAction("MyClaims", "Lecturer");
-            if (user.Role == "Coordinator") return RedirectToAction("VerifyClaims", "Coordinator");
-            if (user.Role == "Manager") return RedirectToAction("FinalApproval", "Manager");
+            if (user.Role == "HR")
+            {
+                return RedirectToAction("Users", "HR");
+            }
+
+            if (user.Role == "Lecturer")
+            {
+                return RedirectToAction("MyClaims", "Lecturer");
+            }
+
+            if (user.Role == "Coordinator")
+            {
+                return RedirectToAction("VerifyClaims", "Coordinator");
+            }
+
+            if (user.Role == "Manager")
+            {
+                return RedirectToAction("FinalApproval", "Manager");
+            }
 
             return RedirectToAction("Index");
         }
