@@ -28,5 +28,8 @@ Constraints
 # Part 3
 # YT link
 yt: https://youtu.be/m2FyEIpodOM
+# Powerpoint
+[PROG6212 presentation.pptx](https://github.com/user-attachments/files/23682845/PROG6212.presentation.pptx)
+
 # References
 
