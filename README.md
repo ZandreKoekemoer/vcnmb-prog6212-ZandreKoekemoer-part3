@@ -29,8 +29,7 @@ Constraints
 # YT link
 yt: https://youtu.be/m2FyEIpodOM
 # Powerpoint
-[PROG6212 presentation.pptx](https://github.com/user-attachments/files/23682845/PROG6212.presentation.pptx)
-
+[PROG6212 presentation.pptx](https://github.com/user-attachments/files/23684194/PROG6212.presentation.pptx)
 # References
 /*
 Microsoft. 2025. Working with a database in ASP.NET Core MVC (Version 2.0) [Source code].
